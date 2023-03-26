@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Poker.dir/main.cpp.o CMakeFiles/Poker.dir/pokerModel/card.cpp.o -o Poker 
